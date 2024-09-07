@@ -1,0 +1,10 @@
+atari-py==0.1.7
+gym==0.9.6
+jupyter-client==5.2.4
+jupyter-core==4.4.0
+jupyterlab==1.0.9
+jupyterlab-server==1.0.0
+matplotlib
+notebook==5.7.0
+torch==0.4.0
+torchvision==0.2.1
